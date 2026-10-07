@@ -44,8 +44,3 @@ O projeto contém os seguintes códigos em C++ (`.ino`) para a Arduino IDE[cite:
 1. Acesse o [MIT App Inventor](https://appinventor.mit.edu/).
 2. Importe o projeto do aplicativo de controle remoto via Bluetooth.
 3. Instale o APK gerado no seu smartphone Android para começar a pilotar o carrinho à distância.
-
----
-
-## 🤝 Contribuição
-Sinta-se à vontade para abrir *issues*, sugerir melhorias ou enviar *pull requests* para novas funções no projeto!
